@@ -69,3 +69,8 @@ form button {
 .site-footer {
   padding: 2rem 0;
 }
+
+.main-nav ul li a:hover {
+  background-color: #000;
+  color: #fff;
+}
